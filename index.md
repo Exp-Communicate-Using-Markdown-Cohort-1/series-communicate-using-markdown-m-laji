@@ -5,4 +5,6 @@
 # <h5>A header 5 </h5>
 # <h6>A header 6 </h6>
 
-In this file i have tested changing headers in a "markdown" file
+I have tested changing headers in a "markdown" file in this file.
+
+![Image of a Koala](https://cdn.britannica.com/26/162626-050-3534626F/Koala.jpg)
