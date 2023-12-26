@@ -7,13 +7,13 @@
 
 I have tested changing headers in a "markdown" file in this file.
 
-![Image of a Koala](https://cdn.britannica.com/26/162626-050-3534626F/Koala.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [x] Turn on GitHub Pages
-- [x] Outline my portfolio
-- [ ] Learn generative AI
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
