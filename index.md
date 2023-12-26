@@ -5,15 +5,4 @@
 # <h5>A header 5 </h5>
 # <h6>A header 6 </h6>
 
-I have tested changing headers in a "markdown" file in this file.
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+![Image of Stewie](https://media.npr.org/assets/img/2011/08/17/fguy2006_stewie1_f_custom-35dba0539b1d4e9726d4d395a99df712673f5445-s600-c85.webp)
