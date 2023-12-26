@@ -10,7 +10,7 @@
 
 ###### <h6>A header 6 </h6>
 
-![Image of Yaktocat](yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
