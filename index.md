@@ -13,3 +13,7 @@ I have tested changing headers in a "markdown" file in this file.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Learn generative AI
